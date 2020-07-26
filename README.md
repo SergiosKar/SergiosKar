@@ -18,7 +18,7 @@ Anything related to Machine Learning, Computer Vision and Robotics. Actually the
 
 Well I'm always on my laptop. But the very very few hours I'm not, you will find me playing the guitar, figuring out where I'm going to travel next and debating over a cup of coffee. Over lot's of cups of coffee actually.
 
-### Btw wanna grab a cup of coffee?*
+#### Btw wanna grab a cup of coffee?
 
 If so, you can contact me on sergioskarag@gmail.com or ping me on social
 
