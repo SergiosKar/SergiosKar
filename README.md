@@ -1,7 +1,7 @@
 ### Who am I ?
 
 - <img src="https://theaisummer.com/assets/img/icons/favicon-16x16.png" />  Founder of [AI Summer](https://theaisummer.com/) 
-- :computer:  Software Engineer at HubSpot (Machine Learning Infrastucture)
+- :computer:  Software Engineer at HubSpot (Machine Learning Infrastructure)
 - :pencil2: Writer about Deep Learning, Software Engineering and System Design
 
 
@@ -12,7 +12,7 @@
 
 ### Interests
 
-Anything related to Machine Learning, Computer Vision and Robotics. Actually the truth is that I am also very keen on developing high-performant software. Oooh and designing scalable systems. Oooh and web development. And astrophysics. and music theory. and how the heck quantum entanglement is possible. Ok I stop
+Anything related to AI, Computer Vision and Robotics. Actually the truth is that I am also very keen on developing high-performant software. Oooh and designing scalable systems. Oooh and web development. And astrophysics. and music theory. and how the heck quantum entanglement is possible. Ok I stop
 
 ### What do I do when I'm not in front of my laptop?
 
