@@ -1,8 +1,8 @@
 ### Who am I ?
 
 - <img src="https://theaisummer.com/assets/img/icons/favicon-16x16.png" />  Founder of [AI Summer](https://theaisummer.com/) 
-- :computer:  Software Engineer at HubSpot (Machine Learning Infrastructure)
-- :pencil2: Writer about Deep Learning, Software Engineering and System Design
+- :computer:  Ex Software Engineer at HubSpot (Machine Learning Infrastructure)
+- :pencil2: Writer about Deep Learning, Software Engineering and Machine Learning Infrastructure
 - 🎓 Electrical and Computer Engineer
 
 
