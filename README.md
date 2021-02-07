@@ -3,6 +3,7 @@
 - <img src="https://theaisummer.com/assets/img/icons/favicon-16x16.png" />  Founder of [AI Summer](https://theaisummer.com/) 
 - :computer:  Ex Software Engineer at HubSpot (Machine Learning Infrastructure)
 - :pencil2: Writer about Deep Learning, Software Engineering and Machine Learning Infrastructure
+- :computer: Ex Data Scientist at Eworx SA
 - 🎓 Electrical and Computer Engineer
 
 
