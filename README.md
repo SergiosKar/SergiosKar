@@ -19,8 +19,8 @@
 Anything related to AI, Computer Vision and Robotics. Actually the truth is that I am also very keen on developing high-performant software. Oooh and designing scalable systems. Oooh and web development. And astrophysics. and music theory. and how the heck quantum entanglement is possible. Ok I stop
 
 ### Technologies I use every day
-- Languages: Python, Javascript, Java, R
-- Frameworks: Tensorflow, Pytorch, OpenCV, ReactJs, Docker, Cuda, Google Cloud, AWS, MySQL
+- Languages: Python, Javascript, Java
+- Frameworks: Tensorflow, Pytorch, Docker, Kubernetes, Google Cloud, AWS, MySQL
 
 ### What do I do when I'm not in front of my laptop?
 
