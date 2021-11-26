@@ -1,5 +1,6 @@
 ### Who am I ?
 
+- 📖Author of [Deep Learning in Production Book](https://www.amazon.com/Deep-Learning-Production-Sergios-Karagiannakos-dp-6180033773/dp/6180033773/)
 - <img src="https://theaisummer.com/static/718925fff9f76749a24219585611dbe3/favicon-16x16.png" />  Founder of [AI Summer](https://theaisummer.com/) 
 - 📘 Co-Creator of the [Introduction to Deep Learning & Neural Networks course](https://www.educative.io/courses/intro-deep-learning)
 - :computer:  Ex Software Engineer at HubSpot (Machine Learning Infrastructure)
