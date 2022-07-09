@@ -4,9 +4,9 @@
 - <img src="https://theaisummer.com/static/718925fff9f76749a24219585611dbe3/favicon-16x16.png" />  Founder of [AI Summer](https://theaisummer.com/) 
 - 📘 Co-Creator of the [Introduction to Deep Learning & Neural Networks course](https://www.educative.io/courses/intro-deep-learning)
 - :computer:  Ex Software Engineer at HubSpot (Machine Learning Infrastructure)
-- :pencil2: Writer about Deep Learning, Software Engineering and Machine Learning Infrastructure
 - :computer: Ex Data Scientist at Eworx SA
-- 🎓 Electrical and Computer Engineer
+- :pencil2: Writer about Deep Learning and Machine Learning Infrastructure
+- 🎓 Masters in Electrical and Computer Engineering
 
 
 ### Mission
